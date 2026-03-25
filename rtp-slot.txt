@@ -9,7 +9,7 @@
   <link rel="icon" type="image/x-icon" href="https://i.ibb.co.com/nKJPsLw/icons8-golden-opportunity-94.png" />
   <link rel="apple-touch-icon" href="https://i.ibb.co.com/nKJPsLw/icons8-golden-opportunity-94.png">
   <link rel="canonical" href="https://pustaka.iainlangsa.ac.id/">
-  <link rel="amphtml" href="https://flight-to-moon.pages.dev/lets-fly" />
+  <link rel="amphtml" href="https://flight-to-moon.pages.dev/flight" />
   <link as='image' href='https://i.ibb.co.com/4Z2MKctb/fc4a45ac-44ac-4fcc-8b07-6f8cc4db1293.png' rel='preload'>
   <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
   <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
