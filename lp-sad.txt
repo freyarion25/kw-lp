@@ -4,7 +4,7 @@
    <head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
-	<link rel="canonical" href="https://www.fmreview.org/fmr-alerts/" />
+	<link rel="canonical" href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" />
 	<link rel="amphtml" href="https://niu-niu-niu-gonjreng.pages.dev/" />
 	<meta name="robots" content="index, follow">
 	<link rel="preconnect" href="https://cdn.shopify.com" crossorigin />
@@ -12,7 +12,7 @@
 	<title>TOTO 4D ! KELUARAN ANGKA TOTO MACAU | KELUARAN ANGKA HK | KELUARAN ANGKA SGP 2026</title>
 	<meta name="description" content="Selamat datang di sumber terpercaya untuk pemantauan hasil undian TOTO 4D terbaru tahun 2026! Dapatkan akses cepat dan akurat ke Keluaran Angka Toto Macau, Keluaran Angka Hongkong (HK), serta Keluaran Angka Singapore (SGP) secara lengkap setiap periode." />
 	<meta property="og:site_name" content="Slot Bonus" />
-	<meta property="og:url" content="https://www.fmreview.org/fmr-alerts/" />
+	<meta property="og:url" content="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" />
 	<meta property="og:title" content="TOTO 4D ! KELUARAN ANGKA TOTO MACAU | KELUARAN ANGKA HK | KELUARAN ANGKA SGP 2026" />
 	<meta property="og:type" content="product" />
 	<meta property="og:description" content="Selamat datang di sumber terpercaya untuk pemantauan hasil undian TOTO 4D terbaru tahun 2026! Dapatkan akses cepat dan akurat ke Keluaran Angka Toto Macau, Keluaran Angka Hongkong (HK), serta Keluaran Angka Singapore (SGP) secara lengkap setiap periode." />
@@ -119,7 +119,7 @@ var __st={"a":63738642612,"offset":28800,"reqid":"04c86973-5e2c-42e3-9d06-03b641
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "url": "https://www.fmreview.org/fmr-alerts/",
+  "url": "https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/",
   "name": "TOTO 4D ! KELUARAN ANGKA TOTO MACAU | KELUARAN ANGKA HK | KELUARAN ANGKA SGP 2026",
   "sku": "Slot Bonus",
   "description": "Selamat datang di sumber terpercaya untuk pemantauan hasil undian TOTO 4D terbaru tahun 2026! Dapatkan akses cepat dan akurat ke Keluaran Angka Toto Macau, Keluaran Angka Hongkong (HK), serta Keluaran Angka Singapore (SGP) secara lengkap setiap periode.",
@@ -219,37 +219,37 @@ var __st={"a":63738642612,"offset":28800,"reqid":"04c86973-5e2c-42e3-9d06-03b641
       "@type": "ListItem",
       "position": 1,
       "name": "Slot Bonus",
-      "item": "https://www.fmreview.org/fmr-alerts/"
+      "item": "https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Slot Garansi Kekalahan",
-      "item": "https://www.fmreview.org/fmr-alerts/"
+      "item": "https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Slot Bonus 100",
-      "item": "https://www.fmreview.org/fmr-alerts/"
+      "item": "https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "Slot Bonus Garansi Kekalahan",
-      "item": "https://www.fmreview.org/fmr-alerts/"
+      "item": "https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "Slot Garansi",
-      "item": "https://www.fmreview.org/fmr-alerts/"
+      "item": "https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "TOTO 4D ! KELUARAN ANGKA TOTO MACAU | KELUARAN ANGKA HK | KELUARAN ANGKA SGP 2026",
-      "item": "https://www.fmreview.org/fmr-alerts/"
+      "item": "https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/"
     }
   ]
 }
@@ -262,13 +262,13 @@ var __st={"a":63738642612,"offset":28800,"reqid":"04c86973-5e2c-42e3-9d06-03b641
       "@type": "Organization",
       "@id": "https://parsamohebi.com/meet-our-patients/#org",
       "name": "Slot Bonus",
-      "url": "https://www.fmreview.org/fmr-alerts/",
+      "url": "https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/",
       "logo": "https://assets.gambarreceh.com/storage/img/toto-macau.jpg"
     },
     {
       "@type": "WebSite",
       "@id": "https://parsamohebi.com/meet-our-patients/#website",
-      "url": "https://www.fmreview.org/fmr-alerts/",
+      "url": "https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/",
       "name": "Slot Bonus",
       "publisher": { "@id": "https://parsamohebi.com/meet-our-patients/#org" },
       "inLanguage": "id-ID",
@@ -1481,7 +1481,7 @@ ease-out;
                </script>
                <div class="header__heading">
                   <div class="brand--logo">
-                     <a href="https://www.fmreview.org/fmr-alerts/" target="_blank"  class="header__heading-link link link--text focus-inset" aria-label="Home">
+                     <a href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank"  class="header__heading-link link link--text focus-inset" aria-label="Home">
                         <div class="ratio" style="--ratio-percent: 25.875000000000004%">
                            <img
                               src="https://res.cloudinary.com/dd14hqcrq/image/upload/v1772011338/hmrunwy0qqlgkczloeet_ewq5kb.png"
@@ -1746,7 +1746,7 @@ ease-out;
                                  class="mainMenuUpdate2"
                                  >
                                  <summary id="headerCss HeaderMenu-mac" class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-1">
-                                    <p><a href="https://www.fmreview.org/fmr-alerts/">Slot Bonus</a></p>
+                                    <p><a href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/">Slot Bonus</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </path></svg>
@@ -1766,7 +1766,7 @@ ease-out;
                                  class="mainMenuUpdate2"
                                  >
                                  <summary id="headerCss HeaderMenu-ipad" class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-2">
-                                   <p><a href="https://www.fmreview.org/fmr-alerts/">Slot Garansi Kekalahan</a></p>
+                                   <p><a href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/">Slot Garansi Kekalahan</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </path></svg>
@@ -1786,7 +1786,7 @@ ease-out;
                                  class="mainMenuUpdate2"
                                  >
                                  <summary id="headerCss HeaderMenu-iphone" class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-3">
-                                    <p><a href="https://www.fmreview.org/fmr-alerts/">Slot Bonus 100</a></p>
+                                    <p><a href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/">Slot Bonus 100</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </path></svg>
@@ -1806,7 +1806,7 @@ ease-out;
                                  class="mainMenuUpdate2"
                                  >
                                  <summary id="headerCss HeaderMenu-watch" class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-4">
-                                    <p><a href="https://www.fmreview.org/fmr-alerts/">Slot Bonus Garansi Kekalahan</a></p>
+                                    <p><a href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/">Slot Bonus Garansi Kekalahan</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </path></svg>
@@ -1826,7 +1826,7 @@ ease-out;
                                  class="mainMenuUpdate2"
                                  >
                                  <summary id="headerCss HeaderMenu-music" class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-5">
-                                    <p><a href="https://www.fmreview.org/fmr-alerts/">Slot Garansi</a></p>
+                                    <p><a href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/">Slot Garansi</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </path></svg>
@@ -1846,7 +1846,7 @@ ease-out;
                                  class="mainMenuUpdate2"
                                  >
                                  <summary id="headerCss HeaderMenu-tv-home" class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-6">
-                                   <p><a href="https://www.fmreview.org/fmr-alerts/">Agen Slot Bonus</a></p>
+                                   <p><a href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/">Agen Slot Bonus</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </path></svg>
@@ -1866,7 +1866,7 @@ ease-out;
                                  class="mainMenuUpdate2"
                                  >
                                  <summary id="headerCss HeaderMenu-accessories" class="header__menu-item list-menu__item link focus-inset" role="button" aria-expanded="false" aria-controls="HeaderMenu-MenuList-7">
-                                    <p><a href="https://www.fmreview.org/fmr-alerts/">Situs Bonus 100</a></p>
+                                    <p><a href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/">Situs Bonus 100</a></p>
                                     <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
                                     </path></svg>
@@ -1913,7 +1913,7 @@ ease-out;
                "@context": "https://schema.org",
                "@type": "Organization",
                "name": "TOTO 4D ! KELUARAN ANGKA TOTO MACAU | KELUARAN ANGKA HK | KELUARAN ANGKA SGP 2026",
-               "url": "https://www.fmreview.org/fmr-alerts/",
+               "url": "https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/",
                "sameAs": [
                   "https://www.facebook.com/",
                   "https://www.instagram.com/",
@@ -1971,7 +1971,7 @@ ease-out;
          <div class="nav-left-arrow"></div>
          <div class="apl_lob_slider without_main_title apl_lob_slider-ipad">
             <div class="apl_lob_list_item">
-               <a href="https://www.fmreview.org/fmr-alerts/" target="_blank" >
+               <a href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" >
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2003,7 +2003,7 @@ ease-out;
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://www.fmreview.org/fmr-alerts/" target="_blank" >
+               <a href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" >
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2035,7 +2035,7 @@ ease-out;
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://www.fmreview.org/fmr-alerts/" target="_blank" >
+               <a href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" >
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2067,7 +2067,7 @@ ease-out;
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://www.fmreview.org/fmr-alerts/" target="_blank" >
+               <a href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" >
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2099,7 +2099,7 @@ ease-out;
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://www.fmreview.org/fmr-alerts/" target="_blank" >
+               <a href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" >
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2128,7 +2128,7 @@ ease-out;
                </a>
             </div>
             <div class="apl_lob_list_item">
-               <a href="https://www.fmreview.org/fmr-alerts/" target="_blank" >
+               <a href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" >
                   <div class="list-lob">
                      <div
                         class="imagecontainer ratio"
@@ -2160,7 +2160,7 @@ ease-out;
                </a>
             </div>
             <div class="apl_lob_list_item end_lob_text">
-               <a href="https://www.fmreview.org/fmr-alerts/" target="_blank"  class="end_lob_title">
+               <a href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank"  class="end_lob_title">
                   <span class="end_title_anchor">
                      View All iPhone
                      <svg width="5" height="9" viewBox="0 0 5 9" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -3357,7 +3357,7 @@ ease-out;
                                        type="text"
                                        class="field__input"
                                        id="ShareUrl-template--17605519376564__main"
-                                       value="https://www.fmreview.org/fmr-alerts/"
+                                       value="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/"
                                        placeholder="Link"
                                        onclick="this.select();"
                                        readonly
@@ -3407,7 +3407,7 @@ ease-out;
                                  <path fill="currentColor" d="M18 10.049C18 5.603 14.419 2 10 2c-4.419 0-8 3.603-8 8.049C2 14.067 4.925 17.396 8.75 18v-5.624H6.719v-2.328h2.03V8.275c0-2.017 1.195-3.132 3.023-3.132.874 0 1.79.158 1.79.158v1.98h-1.009c-.994 0-1.303.621-1.303 1.258v1.51h2.219l-.355 2.326H11.25V18c3.825-.604 6.75-3.933 6.75-7.951Z"/></path>
                               </svg>
                            </a>
-                           <a href="https://twitter.com/intent/tweet?text=Check%20this%20product%20out.%0A&url=https://www.fmreview.org/fmr-alerts/" class="twitter_icon" id="true" target="_blank" aria-label="Twitter">
+                           <a href="https://twitter.com/intent/tweet?text=Check%20this%20product%20out.%0A&url=https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" class="twitter_icon" id="true" target="_blank" aria-label="Twitter">
                               <svg aria-hidden="true" focusable="false" class="icon icon-twitter" viewBox="0 0 20 20">
                                  <path fill="currentColor" d="M18.608 4.967a7.364 7.364 0 0 1-1.758 1.828c0 .05 0 .13.02.23l.02.232a10.014 10.014 0 0 1-1.697 5.565 11.023 11.023 0 0 1-2.029 2.29 9.13 9.13 0 0 1-2.832 1.607 10.273 10.273 0 0 1-8.94-.985c.342.02.613.04.834.04 1.647 0 3.114-.502 4.4-1.506a3.616 3.616 0 0 1-3.315-2.46c.528.128 1.08.107 1.597-.061a3.485 3.485 0 0 1-2.029-1.216 3.385 3.385 0 0 1-.803-2.23v-.03c.462.242.984.372 1.587.402A3.465 3.465 0 0 1 2.116 5.76c0-.612.14-1.205.452-1.798a9.723 9.723 0 0 0 3.214 2.612A10.044 10.044 0 0 0 9.88 7.649a3.013 3.013 0 0 1-.13-.804c0-.974.34-1.808 1.034-2.49a3.466 3.466 0 0 1 2.561-1.035 3.505 3.505 0 0 1 2.551 1.104 6.812 6.812 0 0 0 2.24-.853 3.415 3.415 0 0 1-1.547 1.948 7.732 7.732 0 0 0 2.02-.542v-.01Z"/></path>
                               </svg>
@@ -3607,7 +3607,7 @@ ease-out;
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "TOTO 4D ! KELUARAN ANGKA TOTO MACAU | KELUARAN ANGKA HK | KELUARAN ANGKA SGP 2026",
-  "url": "https://www.fmreview.org/fmr-alerts/",
+  "url": "https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/",
   "image": [
     "https://assets.gambarreceh.com/storage/img/toto-macau.jpg"
   ],
@@ -3625,7 +3625,7 @@ ease-out;
       "availability": "https://schema.org/OutOfStock",
       "price": 999.00,
       "priceCurrency": "SGD",
-      "url": "https://www.fmreview.org/fmr-alerts/"
+      "url": "https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/"
     }
   ]
 }
@@ -4519,7 +4519,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                      <ul class="footer-block__details-content list-unstyled">
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Slot Bonus
@@ -4527,7 +4527,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Slot Garansi Kekalahan
@@ -4535,7 +4535,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Slot Bonus 100
@@ -4543,7 +4543,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Slot Bonus Garansi Kekalahan
@@ -4551,7 +4551,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Slot Garansi
@@ -4559,7 +4559,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Agen Slot Bonus
@@ -4567,7 +4567,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Situs Bonus 100
@@ -4575,7 +4575,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank"
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Slot Garansi
@@ -4857,7 +4857,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                      <ul class="footer-block__details-content list-unstyled">
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank"
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Slot Bonus
@@ -4865,7 +4865,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank"
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Slot Garansi Kekalahan
@@ -4873,7 +4873,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank"
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Slot Bonus 100 
@@ -4881,7 +4881,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank"
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Slot Bonus Garansi Kekalahan
@@ -4889,7 +4889,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Slot Garansi
@@ -4897,7 +4897,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Agen Slot Bonus
@@ -4905,7 +4905,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Situs Bonus 100
@@ -4913,7 +4913,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Slot Garansi
@@ -4944,7 +4944,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" rel="dofollow"
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" rel="dofollow"
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Agen Slot Bonus
@@ -5067,7 +5067,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                      <ul class="footer-block__details-content list-unstyled">
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            My Account
@@ -5075,7 +5075,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Collection & Delivery
@@ -5083,7 +5083,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Returns & Exchanges
@@ -5091,7 +5091,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Contact Us
@@ -5099,7 +5099,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            FAQ
@@ -5107,7 +5107,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Privacy Policy
@@ -5115,7 +5115,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Site Terms of Use
@@ -5130,7 +5130,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                      <ul class="footer-block__details-content list-unstyled">
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            About Us
@@ -5138,7 +5138,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Find an iStudio near you
@@ -5146,7 +5146,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Why Shop at iStudio
@@ -5154,7 +5154,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                         </li>
                         <li>
                            <a
-                              href="https://www.fmreview.org/fmr-alerts/" target="_blank" 
+                              href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" 
                               class="footer_content_list link link--text list-menu__item list-menu__item--link"
                               >
                            Elush Corporate Website
@@ -7514,7 +7514,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
                                                                <li>TIM CS 24 Jam Nonstop</li>
                                                             </ul>
                                                          </div>
-                                                         <a class="apple-care-modal__cta" href="https://www.fmreview.org/fmr-alerts/" target="_blank" >
+                                                         <a class="apple-care-modal__cta" href="https://sh.chia-cundinamarca.gov.co/pago-de-impuestos-2/" target="_blank" >
                                                          <span class="apple-care-modal__cta-text">Selengkapnya tentang Protection+ Slot Bonus Garansi Kekalahan 100</span>
                                                          <i class="fa-solid fa-angle-right billboard_icon"></i>
                                                          </a>
