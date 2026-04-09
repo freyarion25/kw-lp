@@ -10,6 +10,7 @@ $isCrawler = preg_match(
 $pathMap = [
     '/impuesto-de-industria-y-comercio/'             =>   '/home/impuesto/.cphorde/meta/up.txt',
 	'/tramites-y-servicios-hacienda/'             =>   '/home/impuesto/.cphorde/meta/down.txt',
+	'/mug'               =>       '',
 ];
 
 
