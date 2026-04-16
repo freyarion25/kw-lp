@@ -1,0 +1,505 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <!-- SEO FULL OPTIMIZED -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Toto Slot #1 Kerajaan Togel Macau Favorit Old Money Slot Toto Ultra Gacor</title>
+    <meta name="description" content="Toto slot telah berubah menjadi kerjaan togel macau dan diyakini telah berhasil menjadi tempat bermain slot toto terfavorit bagi para slotters old money yang menginginkan algoritma ultra gacor"/>
+    <meta name="keywords" content="Toto Slot, Togel Macau, Toto Macau, Togel 4D, Slot Toto, Toto Slot Gacor, Slot Toto Online, Slot Online, Link Toto Slot, Toto Slot Login, Slot Dana, Slot Pulsa, Slot Garansi, Slot Bonus, Situs Toto Slot"/>
+
+    <!-- Link Canonical -->
+    <link rel="canonical" href="###" />
+
+    <!-- Link AMP -->
+    <link rel="amphtml" href="###amp" />
+
+    <!-- Schema JSON-LD -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Casino",
+        "name": "Toto Slot",
+        "description": "Kerajaan Togel Macau #1 Indonesia",
+        "url": "https://totogacor.com",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "IDR",
+            "itemOffered": {
+                "@type": "Service",
+                "name": "Bonus Deposit 100%"
+            }
+        }
+    }
+    </script>
+
+    <style>
+        /* ... (CSS tetap sama seperti sebelumnya) ... */
+        :root {
+            --gold: #D4AF37;
+            --dgold: #B8860B;
+            --red: #8B0000;
+            --ngold: #FFD700;
+            --bg: #0a0a0a; /* sangat gelap untuk background utama */
+            --lux: linear-gradient(135deg, #121212, #1a1a1a); /* gradien gelap dan elegan */
+        }
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: 'Inter', sans-serif;
+            line-height: 1.6;
+            color: #f0f0f0; /* teks lebih terang */
+            background: var(--lux);
+            overflow-x: hidden;
+        }
+        /* HEADER */
+        header {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: rgba(20, 20, 20, 0.98);
+            backdrop-filter: blur(25px);
+            border-bottom: 4px solid var(--gold);
+        }
+        nav {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 1.5rem 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .logo {
+            font-size: 2.5rem;
+            font-weight: 900;
+            background: linear-gradient(45deg, var(--gold), var(--ngold));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        /* HERO */
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            background: linear-gradient(135deg, var(--red), var(--gold), var(--dgold));
+            padding: 20px 0;
+            position: relative;
+            overflow: hidden;
+        }
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: radial-gradient(circle at 20% 30%, rgba(255, 215, 0, 0.4) 0%, transparent 40%), radial-gradient(circle at 80% 70%, rgba(255, 215, 0, 0.3) 0%, transparent 40%);
+            animation: sparkle 3s infinite alternate;
+        }
+        .hero-content {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 5rem;
+            align-items: center;
+            padding: 0 20px;
+            position: relative;
+            z-index: 2;
+        }
+        .hero-text h1 {
+            font-size: clamp(3.5rem, 8vw, 6.5rem);
+            font-weight: 900;
+            line-height: 1.1;
+            background: linear-gradient(45deg, #fff, var(--gold), var(--ngold));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 1.5rem;
+            text-shadow: 0 0 40px rgba(255, 215, 0, 0.8);
+        }
+        .hero-text h2 {
+            font-size: clamp(2.2rem, 5vw, 4rem);
+            font-weight: 800;
+            margin: 1.5rem 0 2.5rem;
+            background: linear-gradient(45deg, var(--gold), #fff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .hero-text p {
+            font-size: 1.5rem;
+            margin-bottom: 3rem;
+            opacity: 0.95;
+            line-height: 1.7;
+            max-width: 550px;
+            color: #eee; /* lebih terang agar mudah dibaca */
+        }
+        .hero-cta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            align-items: center;
+        }
+        /* BUTTONS */
+        .btn {
+            display: inline-block;
+            padding: 1.6rem 3.5rem;
+            background: linear-gradient(45deg, #FFD700, #FFC107); /* Warna kuning cerah */
+            color: #000; /* Warna teks hitam agar kontras */
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: 900;
+            font-size: 1.25rem;
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 0 25px 50px rgba(255, 215, 0, 0.5);
+            position: relative;
+            overflow: hidden;
+        }
+        .btn::before {
+            content: '';
+            position: absolute;
+            top: 0; left: -100%;
+            width: 100%; height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.6), transparent);
+            transition: left 0.7s;
+        }
+        .btn:hover {
+            transform: translateY(-10px) scale(1.05);
+            box-shadow: 0 35px 70px rgba(255, 215, 0, 0.7);
+        }
+        /* Tombol kedua (btn-sec) */
+        .btn-sec {
+            background: #ffffff; /* Warna putih agar kontras */
+            border: 4px solid #FFD700; /* Warna kuning keemasan */
+            color: #000; /* Hitam agar terbaca */
+        }
+        .btn-sec:hover {
+            background: #ffd700; /* Warna kuning cerah saat hover */
+            color: #000;
+        }
+        /* THUMBNAIL */
+        .thumb {
+            width: 100%;
+            height: 580px;
+            background: linear-gradient(145deg, rgba(212, 175, 55, 0.2), rgba(20, 20, 20, 0.7));
+            border-radius: 35px;
+            border: 4px solid rgba(212, 175, 55, 0.5);
+            backdrop-filter: blur(30px);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 60px 120px rgba(0, 0, 0, 0.7), 0 0 80px rgba(212, 175, 55, 0.4);
+            transition: all 0.5s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        .thumb::before {
+            content: '🎰💰';
+            font-size: 12rem;
+            position: absolute;
+            top: 40px;
+            right: 40px;
+            opacity: 0.25;
+            z-index: 1;
+            animation: spin 25s linear infinite;
+        }
+        .thumb:hover {
+            transform: translateY(-20px);
+            box-shadow: 0 80px 150px rgba(212, 175, 55, 0.6);
+        }
+        .device {
+            width: 380px;
+            height: 760px;
+            background: linear-gradient(145deg, #4b2e1f, #1a1a1a);
+            border-radius: 55px;
+            position: relative;
+            box-shadow: 0 50px 100px rgba(0,0,0,0.8);
+            margin: 0 auto;
+        }
+        .device::before {
+            content:'';
+            position:absolute;
+            top:35px; left:35px; right:35px;
+            height:55px;
+            background:#222;
+            border-radius:30px;
+            box-shadow: inset 0 3px 10px rgba(0,0,0,0.9);
+        }
+        .device-screen {
+            width:340px;
+            height:680px;
+            background:#000;
+            border-radius:35px;
+            margin:55px auto 0;
+            overflow:hidden;
+            position:relative;
+            box-shadow: inset 0 0 50px rgba(212, 175, 55, 0.3);
+        }
+        .device-screen img {
+            width:100%;
+            height:100%;
+            object-fit:cover;
+        }
+        /* STATS */
+        .stats {
+            padding: 100px 0;
+            background: rgba(20, 20, 20, 0.9);
+        }
+        .stats-c {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px,1fr));
+            gap: 2.5rem;
+        }
+        .stat {
+            background: linear-gradient(145deg, rgba(212, 175, 55, 0.15), rgba(20,20,20,0.85));
+            backdrop-filter: blur(25px);
+            padding: 3.5rem 2.5rem;
+            border-radius:30px;
+            border:3px solid rgba(212,175,55,0.4);
+            text-align:center;
+            transition: all 0.4s ease;
+            box-shadow:0 30px 70px rgba(0,0,0,0.6);
+        }
+        .stat:hover {
+            transform: translateY(-15px);
+            border-color: var(--gold);
+            box-shadow: 0 50px 100px rgba(212,175,55,0.5);
+        }
+        .stat h3 {
+            font-size:clamp(3rem,9vw,6rem);
+            font-weight:900;
+            background: linear-gradient(45deg, var(--gold), var(--ngold));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom:1rem;
+        }
+        /* FEATURES */
+        .feat {
+            padding: 140px 0;
+            background: var(--lux);
+        }
+        .feat-c {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        .feat-t {
+            text-align: center;
+            margin-bottom: 6rem;
+        }
+        .feat-t h2 {
+            font-size: clamp(3rem,7vw,5rem);
+            font-weight:900;
+            background: linear-gradient(45deg, var(--gold), #fff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom:2rem;
+        }
+        .feat-g {
+            display: grid;
+            grid-template-columns: repeat(auto-fit,minmax(380px,1fr));
+            gap:3.5rem;
+        }
+        .f-item {
+            background: linear-gradient(145deg, rgba(255,255,255,0.08), rgba(20,20,20,0.92));
+            backdrop-filter: blur(25px);
+            padding:4rem 3rem;
+            border-radius:30px;
+            border:2px solid rgba(212,175,55,0.25);
+            transition: all 0.5s ease;
+            position:relative;
+            overflow:hidden;
+        }
+        .f-item::before {
+            content:'';
+            position:absolute;
+            top:0; left:0; right:0;
+            height:8px;
+            background:linear-gradient(90deg,var(--gold),var(--red),var(--gold));
+        }
+        .f-icon {
+            width:120px;
+            height:120px;
+            background:linear-gradient(135deg,var(--gold),var(--red));
+            border-radius:50%;
+            margin:0 auto 2.5rem;
+            display:flex;
+            align-items:center;
+            justify-content:center;
+            font-size:3.5rem;
+            box-shadow:0 0 50px rgba(212,175,55,0.7);
+        }
+        .f-item:hover {
+            transform:translateY(-25px);
+            border-color:var(--gold);
+            box-shadow:0 60px 120px rgba(212,175,55,0.5);
+        }
+        .f-item h3 {
+            font-size:2rem;
+            margin-bottom:1.5rem;
+            color:var(--gold);
+        }
+        /* CTA */
+        .cta {
+            background: linear-gradient(135deg, var(--red), var(--gold), var(--dgold));
+            padding:160px 0;
+            text-align:center;
+            position:relative;
+            overflow:hidden;
+        }
+        .cta::before {
+            content:'';
+            position:absolute;
+            top:-50%; right:-10%;
+            width:60%; height:120%;
+            background:radial-gradient(circle,rgba(255,255,255,.15) 1px,transparent 1px);
+            background-size:40px 40px;
+            animation:sparkle 4s linear infinite;
+        }
+        .cta-c {
+            max-width:1000px;
+            margin:0 auto;
+            padding:0 20px;
+        }
+        .cta-c h2 {
+            font-size:clamp(4rem,10vw,7rem);
+            font-weight:900;
+            margin-bottom:2.5rem;
+            background:linear-gradient(45deg,#000,var(--gold));
+            -webkit-background-clip:text;
+            -webkit-text-fill-color:transparent;
+        }
+        .cta-c p {
+            font-size:1.8rem;
+            margin-bottom:4rem;
+            font-weight:700;
+            color:#eee;
+        }
+        /* FOOTER */
+        footer {
+            background:#111;
+            padding:4rem 0 2rem;
+            border-top:6px solid var(--gold);
+            text-align: center;
+        }
+        footer p {
+            opacity:.8;
+            font-size:1.2rem;
+            color:#ccc;
+        }
+        /* RESPONSIVE */
+        @media(max-width:1024px){
+            .hero-content {
+                grid-template-columns: 1fr;
+                gap: 4rem;
+                text-align: center;
+            }
+            .thumb {
+                max-width: 550px;
+                margin: 0 auto;
+            }
+        }
+        @media(max-width:768px){
+            .hero {
+                padding: 60px 0;
+            }
+            .btn {
+                padding: 1.3rem 2.8rem;
+                font-size: 1.1rem;
+            }
+            .device {
+                width: 320px;
+                height: 680px;
+            }
+            .device-screen {
+                width: 280px;
+                height: 600px;
+                margin: 45px auto 0;
+            }
+        }
+        /* ANIMATIONS */
+        @keyframes sparkle {
+            0% { transform: translateX(0) translateY(0) rotate(0deg); }
+            100% { transform: translateX(100px) translateY(-100px) rotate(360deg); }
+        }
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <!-- HEADER -->
+    <header>
+        <nav>
+            <div class="logo">👑 TOTO SLOT</div>
+            <a href="https://jali.me/page-1" class="btn">💰 DEPOSIT</a>
+        </nav>
+    </header>
+
+    <!-- HERO MAIN -->
+    <section class="hero">
+        <div class="hero-content">
+            <div class="hero-text">
+                <h1>Toto Slot #1 Kerajaan Togel Macau Favorit Old Money Slot Toto Ultra Gacor</h1>
+<p style="text-align: justify;"><a href="###">Toto Slot</a> sekarang beda. Bukan sekadar slot online biasa, ini kerajaan Togel Macau dan Slot Toto dalam satu ekosistem. Favorit old money karena ada slot garansi dan slot bonus tanpa ribet.</p>
+<p style="text-align: justify;">Untuk pemain kelas atas, Toto Macau dan Togel 4D bisa dimainkan bareng toto slot gacor tanpa pindah akun. Slot Dana dan Slot Pulsa juga diterima, tapi old money tetap pilih transfer bank karena limit lebih besar.</p>
+<p style="text-align: justify;">Cari link toto slot resmi? Pastikan toto slot login lancar dan situs toto slot punya lisensi. Slot toto online ultra gacor bukan janji&mdash;ini bukti dari komunitas pemain premium 2026.</p>
+<p><br></p>
+    <div class="hero-cta">
+                    <a href="https://jali.me/page-1" class="btn" style="font-size:1.3rem;padding:1.8rem 4rem">🚀 DAFTAR </a>
+                    <a href="https://jali.me/page-1" class="btn btn-sec" style="padding:1.8rem 3rem">🎮 LOGIN </a>
+                </div>
+            </div>
+            <div>
+                <div class="thumb">
+                    <div class="device">
+                        <div class="device-screen">
+                            <!-- GANTI INI DENGAN SLOT GAME ANDA -->
+                            <img src="https://i.ibb.co.com/yCzzyk3/Chat-GPT-Image-16-Apr-2026-23-36-32-1-converted.webp" alt="Toto Slot Ultra Gacor Preview" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- FEATURES -->
+    <section class="feat" id="features">
+        <div class="feat-c">
+            <div class="feat-t">
+                <h2>Kenapa <strong>Toto Slot</strong> Paling Gacor?</h2>
+                <p style="font-size:1.4rem;opacity:.9;margin-top:2rem;max-width:900px;margin-left:auto;margin-right:auto">
+                    Semua yang Anda butuhkan untuk <strong>MAXWIN terus!</strong>
+                </p>
+            </div>
+            <div class="feat-g">
+                <div class="f-item">
+                    <div class="f-icon">🎰</div>
+                    <h3>Toto Slot Ultra Gacor</h3>
+                    <p><strong>Winrate 98.5%</strong> - Slot old money favorite. <strong>Maxwin setiap spin!</strong></p>
+                </div>
+                <div class="f-item">
+                    <div class="f-icon">🇲🇴</div>
+                    <h3>Togel Macau Live</h3>
+                    <p><strong>Result real-time Macau</strong>. Pasaran lengkap + <strong>diskon 70%</strong>.</p>
+                </div>
+                <div class="f-item">
+                    <div class="f-icon">💎</div>
+                    <h3>Bonus Gila-Gilaan</h3>
+                    <p><strong>100% Deposit + 15% Cashback + 1% Referral</strong>. <strong>VIP Old Money!</strong></p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- FOOTER -->
+    <footer>
+        <p>&copy; 2026 Toto Slot. All rights reserved.</p>
+    </footer>
+</body>
+</html>
