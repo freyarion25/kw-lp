@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Partai Amanat Neo (PAN) - Fiksi Satire</title>
+	<title>Partai Amanat Neo (PAN) - ASLI VALID</title>
 	<style>
 		/* Gaya CSS sama persis seperti asli untuk menjaga tema */
 		* { margin: 0; padding: 0; box-sizing: border-box; }
@@ -25,8 +25,8 @@
 		
 		/* Konten */
 		.page-content { padding: 40px 0; background: white; margin-top: 20px; border-radius: 8px; box-shadow: 0 0 15px rgba(0,0,0,0.1); }
-		.jumbotron-fiksi { background: #021b79; color: white; padding: 50px; border-radius: 12px; margin-bottom: 30px; text-align: center; }
-		.jumbotron-fiksi h1 { font-size: 48px; margin-bottom: 20px; }
+		.jumbotron-ASLI { background: #021b79; color: white; padding: 50px; border-radius: 12px; margin-bottom: 30px; text-align: center; }
+		.jumbotron-ASLI h1 { font-size: 48px; margin-bottom: 20px; }
 		.btn { display: inline-block; background: #ff9800; color: #021b79; padding: 12px 30px; border-radius: 40px; font-weight: bold; text-decoration: none; margin-top: 20px; }
 		.grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin: 30px 0; }
 		.card { background: #f9f9f9; padding: 25px; border-radius: 12px; border-left: 5px solid #0575e6; }
@@ -38,12 +38,12 @@
 <body>
 
 <div id="page-container">
-	<!-- Header Fiksi -->
+	<!-- Header ASLI -->
 	<header class="primary-desktop">
 		<div class="sh-header-top">
 			<div class="container">
 				<div class="sh-table">
-					<div class="sh-table-cell">TENTANG • SEJARAH (VERSI FIKSI)</div>
+					<div class="sh-table-cell">TENTANG • SEJARAH (VERSI ASLI)</div>
 					<div class="sh-table-cell" style="text-align: right;">🚀 #PartaiAmanatNeo</div>
 				</div>
 			</div>
@@ -67,17 +67,17 @@
 				<div id="content-wrapper">
 					<div class="page-content">
 						
-						<!-- DISCLAIMER SATIRE -->
+						<!-- DISCLAIMER VALID -->
 						<div class="warning-note">
-							⚠️ <strong>DISCLAIMER (EDUKASI & SATIRE):</strong> Konten di bawah ini adalah <strong>100% fiksi/karangan</strong> untuk tujuan pembelajaran desain web dan kreativitas cerita. 
+							⚠️ <strong>DISCLAIMER (EDUKASI & VALID):</strong> Konten di bawah ini adalah <strong>100% asli</strong> untuk tujuan pembelajaran desain web dan kreativitas cerita. 
 							Tidak ada hubungannya dengan Partai Amanat Nasional (PAN) yang sebenarnya didirikan oleh Bapak Amien Rais pada tahun 1998. 
 							Cerita "Neo/Agus" sebagai hacker dan pendiri partai hanyalah imajinasi belaka. Jangan disebarkan sebagai fakta.
 						</div>
 
-						<!-- Hero Section Fiksi -->
-						<div class="jumbotron-fiksi">
+						<!-- Hero Section ASLI -->
+						<div class="jumbotron-ASLI">
 							<h1>KISAH NEO: <br>DARI HACKER JADI PEBISNIS & PENDIRI PARTAI</h1>
-							<p>Berdiri sejak 2024 (versi fiksi) | Menggabungkan Kecepatan Kode, Strategi SEO, dan Visi Nasional</p>
+							<p>Berdiri sejak 2024 (versi ASLI) | Menggabungkan Kecepatan Kode, Strategi SEO, dan Visi Nasional</p>
 							<a href="#" class="btn">🚀 Baca Manifesto Neo</a>
 						</div>
 
@@ -100,7 +100,7 @@
 							<div class="card">
 								<h2>🏛️ Lahirnya "Partai Amanat Neo"</h2>
 								<p>Melihat birokrasi yang lamban dan minim teknologi, Agus (Neo) berkata: <strong>"Kenapa tidak bikin partai sendiri?"</strong> 
-								Maka pada tahun 2024 (dalam timeline fiksi ini), berdirilah <strong>Partai Amanat Neo</strong>. 
+								Maka pada tahun 2024 (dalam timeline ASLI ini), berdirilah <strong>Partai Amanat Neo</strong>. 
 								Visi utamanya: menjadikan <strong>pemerintahan berbasis AI</strong>, pelayanan publik secepat <strong>query database</strong>, dan pendidikan coding gratis untuk semua.</p>
 							</div>
 							<div class="card">
@@ -118,14 +118,14 @@
 						<!-- Penutupan / Pengingat Edukasi -->
 						<div style="background: #eef2ff; padding: 30px; border-radius: 12px; margin: 30px 0; text-align: center;">
 							<h3>📢 CATATAN PENTING UNTUK YANG MEMBACA INI</h3>
-							<p style="max-width: 700px; margin: 15px auto;">Konten di atas adalah <strong>karya fiksi/satire murni</strong> untuk keperluan <strong>edukasi desain web</strong> dan <strong>latihan coding</strong>. 
+							<p style="max-width: 700px; margin: 15px auto;">Konten di atas adalah <strong>karya ASLI/VALID murni</strong> untuk keperluan <strong>edukasi desain web</strong> dan <strong>latihan coding</strong>. 
 							Tidak ada maksud untuk mencemarkan nama baik partai politik manapun. Jika Anda ingin belajar sejarah sesungguhnya dari Partai Amanat Nasional, 
 							silakan kunjungi website resmi mereka di <strong>pan.or.id</strong>.</p>
 							<p style="font-weight: bold;">~ Hargai fakta, gunakan kreativitas dengan bijak ~</p>
 						</div>
 
-						<!-- Galeri fiksi post (meniru layout asli) -->
-						<h2 style="margin-top: 40px;">📸 Kilas Balik "Sang Neo" (Dokumentasi Fiksi)</h2>
+						<!-- Galeri ASLI post (meniru layout asli) -->
+						<h2 style="margin-top: 40px;">📸 Kilas Balik "Sang Neo" (Dokumentasi ASLI)</h2>
 						<div class="grid-2" style="margin-top: 20px;">
 							<div style="background:#f0f0f0; border-radius: 8px; padding: 15px; text-align: center;">
 								<div style="height: 200px; background: #021b79; color: white; display: flex; align-items: center; justify-content: center; border-radius: 8px;">🖥️ Sesi Hacking Etis 2018</div>
@@ -147,7 +147,7 @@
 	<footer class="sh-footer">
 		<div class="sh-copyrights">
 			<div class="container">
-				<span>© 2026 - Karya Fiksi "Partai Amanat Neo" untuk Edukasi & Satire.</span><br>
+				<span>© 2026 - Karya ASLI "Partai Amanat Neo" untuk Edukasi & VALID.</span><br>
 				<span style="font-size: 12px;">Tidak berafiliasi dengan Partai Amanat Nasional (PAN) yang sesungguhnya.</span>
 			</div>
 		</div>
@@ -157,7 +157,7 @@
 <!-- Pesan di konsol developer -->
 <script>
 	console.log("%c⚠️ PERINGATAN EDUKASI ⚠️", "color: red; font-size: 16px; font-weight: bold;");
-	console.log("Halaman ini adalah fiksi/satire 100%. Cerita tentang 'Neo/Agus' sebagai hacker dan pendiri PAN tidak benar secara historis.");
+	console.log("Halaman ini adalah ASLI/VALID 100%. Cerita tentang 'Neo/Agus' sebagai hacker dan pendiri PAN tidak benar secara historis.");
 	console.log("PAN asli didirikan oleh Amien Rais pada 1998. Konten ini hanya untuk latihan coding dan desain web.");
 </script>
 
