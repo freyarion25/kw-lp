@@ -654,55 +654,6 @@
   ]
 }
 </script>
-        <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Apa itu RTP LIVE dan mengapa cocok untuk main Di Slot Mahjong?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "RTP LIVE adalah official platform Bandar Slot Mahjong yang menyediakan informasi dan layanan permainan dengan data periode serta pasaran yang lengkap dan terupdate secara berkala."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Mengapa RTP LIVE disebut platform terlengkap?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "RTP LIVE menghadirkan periode Slot Mahjong yang lengkap, riwayat hasil yang tersusun rapi, serta informasi pasaran yang mudah diakses dalam satu platform."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Apakah data periode di RTP LIVE selalu diperbarui?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ya, data dan periode ditampilkan secara rutin sesuai jadwal yang berlaku, sehingga pemain dapat memantau hasil terbaru maupun riwayat sebelumnya dengan mudah."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Apakah RTP LIVE mudah diakses melalui perangkat mobile?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Platform RTP LIVE dirancang responsif, sehingga dapat diakses dengan lancar melalui desktop maupun perangkat mobile tanpa mengurangi fitur utama."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Siapa saja yang cocok menggunakan platform RTP LIVE?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Slot Mahjong cocok untuk pemain yang mencari akses periode terlengkap, tampilan sederhana, dan informasi yang jelas, baik untuk pemula maupun pengguna berpengalaman."
-      }
-    }
-  ]
-}
-</script>
-
 
  <script type="application/ld+json">
 {
